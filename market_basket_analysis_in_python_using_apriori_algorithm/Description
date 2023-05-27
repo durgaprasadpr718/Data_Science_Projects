@@ -1,0 +1,1 @@
+Market basket analysis is an unsupervised machine learning technique because it does not train on a dataset or predict an outcome. Instead, the algorithm identifies relationships between items and combinations of items that are frequently bought together.
